@@ -1,0 +1,3 @@
+Name of component should start with a capital letter which is mandatory
+
+using routes we are going to create three pages starting page, post detail page and new post page
